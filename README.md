@@ -3,7 +3,6 @@ import requests
 from telegram import Bot
 
 # --- Configuración ---
-BOT_TOKEN = "8158214796:AAFDbBKfNhTLhv_6hSSc6e-cu1Mu4H4PdO0"  # tu token del bot
 CHAT_ID = "6464012938"  # tu chat ID
 
 bot = Bot(token=BOT_TOKEN)
